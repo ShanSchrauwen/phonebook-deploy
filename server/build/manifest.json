@@ -1,0 +1,8 @@
+{
+  "short_name": "Phonebook",
+  "name": "Create React App phonebook project for Helsinki full stack",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

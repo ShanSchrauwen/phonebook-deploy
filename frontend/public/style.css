@@ -1,0 +1,20 @@
+.notification {
+    font-size: 20px;
+    line-height: 1.5;
+    text-transform: uppercase;
+}
+
+
+.error {
+    background-color: lightcoral;
+    border: 1px solid red;
+    color: red;
+}
+
+.delete,
+.updated,
+.created {
+    color: green;
+    background-color: lightgreen;
+    border: 1px solid green;
+}
